@@ -11,15 +11,12 @@ A React Native project
 - [ ] yarn (optional for package manager)
 - [ ] Android studio and packages for Android
 - [ ] Xcode for iOS
-- [ ] Pod for iOS
 
 ## Project setup
 
 1. Clone repo to local drive
 2. Use terminal or command prompt and get to project root folder
 3. Install project libraries via `npm i` or `yarn`
-4. Go to ios folder
-5. Install pod files by `pod install`
 
 # Running react-native-tinder-like-swiper
 ## Running react-native-tinder-like-swiper on iOS Simulator
@@ -64,8 +61,7 @@ A React Native project
 1. Launch Xcode, open project workspace file in ios folder
 2. Update build number
 3. Archive, when complete organizer will launch showing where the file is
-Deployment version must match or be higher than the Zendesk framework deployment version
-See https://github.com/mokriya-org/react-native-zendesk for framework setup instructions
+
 
 ## Compiling for Android via Android studio
 1. Update version build number
